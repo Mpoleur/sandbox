@@ -1,0 +1,10 @@
+# Travel Card: generated and secret-prone files stay out of Git
+app/node_modules/
+app/android/
+app/ios/
+app/.expo/
+dist/
+*.keystore
+*.jks
+.env*
+__pycache__/

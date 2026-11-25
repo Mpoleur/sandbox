@@ -84,7 +84,7 @@ def editor():
     cats=['Diet &amp; allergies','Basics','Food &amp; beverage','Transport']
     chips=''.join(f'<div class="chip{" on" if k==0 else ""}">{c}</div>' for k,c in enumerate(cats))
     cells=[('DIE-01','Peanut',True),('DIE-02','Tree nuts'),('DIE-03','Milk / dairy'),('DIE-04','Gluten / wheat'),('DIE-05','Egg'),('DIE-06','Shellfish'),('DIE-07','Soy'),('DIE-08','Sesame')]
-    mods=[('MOD-01','No','on','1'),('MOD-03','Allergy','on','2'),('MOD-02','Without','off'),('MOD-04','Question','off'),('MOD-05','Please','off')]
+    mods=[('MOD-01','No','on'),('MOD-03','Allergy','on','1'),('MOD-02','Without','off'),('MOD-04','Question','off'),('MOD-05','Please','off')]
     return (f'<div class=scr>{sb()}<div class=bar><div class=ib>{ic("back")}</div><h3>New card</h3></div>'
      f'<div class=prev>{card("DIE-01",("MOD-01","MOD-03"),124)}</div>'
      f'<div class=h2s><b>1  Main symbol</b><span>Peanut</span></div><div class=sf>{ic("search",20)}Search symbols</div><div class=chips>{chips}</div>'
@@ -112,7 +112,7 @@ def specimens():
     return ''.join([
      spec('Typography (Roboto, system font)',''.join(f'<div style="font-size:{a}px;line-height:{b}px;font-weight:{w}">{n}</div>' for n,a,b,w in(('Title large 22/28 medium',22,28,500),('Title medium 16/24 medium',16,24,500),('Body 16/24 regular',16,24,400),('Label 14/20 medium',14,20,500),('Caption 12/16 regular',12,16,400)))),
      spec('Buttons (48 dp, 56 dp for the main action)',f'<div class="btn b1">Save card</div><div class="btn b2">Add photo</div><div class="btn b3">{ic("camera",20)}Photo</div><div class="btn b4">Delete card</div>'),
-     spec('Modifier chips: selected, available, blocked',f'{mchip("MOD-01","No","on","1")}{mchip("MOD-04","Question","")}{mchip("MOD-02","Without","off")}'),
+     spec('Modifier chips: No (selected, no number), Allergy (selected, slot 1), available, blocked',f'{mchip("MOD-01","No","on")}{mchip("MOD-03","Allergy","on","1")}{mchip("MOD-04","Question","")}{mchip("MOD-02","Without","off")}'),
      spec('Symbol picker cell: normal and selected',f'<div style="display:flex;gap:8px;width:170px">{cell("FOO-06","Still bottled water").replace("class=\"cell\"","class=cell style=\"width:80px\"")}{cell("FOO-22","Sparkling water",True).replace("class=\"cell on\"","class=\"cell on\" style=\"width:80px\"")}</div>'),
      spec('Search field and add button',f'<div class=search style="width:300px;margin:0">{ic("search")}<span>Search cards and symbols</span></div><div class=fab style="position:static">{ic("plus")}New card</div>'),
      spec('Card tile',f'<div style="display:flex;gap:12px">{tile(EX[1][0],EX[1][1],EX[1][2])}{tile(EX[3][0],EX[3][1],EX[3][2],True,True)}</div>'),

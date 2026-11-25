@@ -1,0 +1,1365 @@
+{
+ "formatVersion": 1,
+ "categories": [
+  "basics",
+  "food-beverage",
+  "diet-allergies",
+  "transport",
+  "places-directions",
+  "accommodation",
+  "health-emergency",
+  "money-shopping",
+  "time-numbers",
+  "communication-tech",
+  "activities",
+  "religion-customs",
+  "pets",
+  "modifiers"
+ ],
+ "symbols": [
+  {
+   "id": "BAS-01",
+   "category": "basics",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "BAS-02",
+   "category": "basics",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "BAS-03",
+   "category": "basics",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "BAS-04",
+   "category": "basics",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "BAS-05",
+   "category": "basics",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "BAS-06",
+   "category": "basics",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "BAS-07",
+   "category": "basics",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "BAS-08",
+   "category": "basics",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "BAS-09",
+   "category": "basics",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "BAS-10",
+   "category": "basics",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "FOO-01",
+   "category": "food-beverage",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "FOO-02",
+   "category": "food-beverage",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "FOO-03",
+   "category": "food-beverage",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "FOO-04",
+   "category": "food-beverage",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "FOO-05",
+   "category": "food-beverage",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "FOO-06",
+   "category": "food-beverage",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "FOO-07",
+   "category": "food-beverage",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "FOO-08",
+   "category": "food-beverage",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "FOO-09",
+   "category": "food-beverage",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "FOO-10",
+   "category": "food-beverage",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "FOO-11",
+   "category": "food-beverage",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "FOO-12",
+   "category": "food-beverage",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "FOO-13",
+   "category": "food-beverage",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "FOO-14",
+   "category": "food-beverage",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "FOO-15",
+   "category": "food-beverage",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "FOO-16",
+   "category": "food-beverage",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "FOO-17",
+   "category": "food-beverage",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "FOO-18",
+   "category": "food-beverage",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "FOO-19",
+   "category": "food-beverage",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "FOO-20",
+   "category": "food-beverage",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "FOO-21",
+   "category": "food-beverage",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "FOO-22",
+   "category": "food-beverage",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "DIE-01",
+   "category": "diet-allergies",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "DIE-02",
+   "category": "diet-allergies",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "DIE-03",
+   "category": "diet-allergies",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "DIE-04",
+   "category": "diet-allergies",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "DIE-05",
+   "category": "diet-allergies",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "DIE-06",
+   "category": "diet-allergies",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "DIE-07",
+   "category": "diet-allergies",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "DIE-08",
+   "category": "diet-allergies",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "DIE-09",
+   "category": "diet-allergies",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "DIE-10",
+   "category": "diet-allergies",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "DIE-13",
+   "category": "diet-allergies",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": true
+  },
+  {
+   "id": "TRA-01",
+   "category": "transport",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TRA-02",
+   "category": "transport",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TRA-03",
+   "category": "transport",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TRA-04",
+   "category": "transport",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TRA-05",
+   "category": "transport",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TRA-06",
+   "category": "transport",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TRA-07",
+   "category": "transport",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TRA-08",
+   "category": "transport",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TRA-09",
+   "category": "transport",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TRA-10",
+   "category": "transport",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TRA-11",
+   "category": "transport",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TRA-12",
+   "category": "transport",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TRA-13",
+   "category": "transport",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TRA-14",
+   "category": "transport",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TRA-15",
+   "category": "transport",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TRA-16",
+   "category": "transport",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TRA-17",
+   "category": "transport",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TRA-18",
+   "category": "transport",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TRA-19",
+   "category": "transport",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TRA-20",
+   "category": "transport",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TRA-21",
+   "category": "transport",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "PLA-01",
+   "category": "places-directions",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "PLA-02",
+   "category": "places-directions",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "PLA-03",
+   "category": "places-directions",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "PLA-04",
+   "category": "places-directions",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "PLA-05",
+   "category": "places-directions",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "PLA-06",
+   "category": "places-directions",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "PLA-07",
+   "category": "places-directions",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "PLA-08",
+   "category": "places-directions",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "PLA-09",
+   "category": "places-directions",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "PLA-10",
+   "category": "places-directions",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "PLA-11",
+   "category": "places-directions",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "PLA-12",
+   "category": "places-directions",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "ACC-01",
+   "category": "accommodation",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "ACC-02",
+   "category": "accommodation",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "ACC-03",
+   "category": "accommodation",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "ACC-04",
+   "category": "accommodation",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "ACC-05",
+   "category": "accommodation",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "ACC-06",
+   "category": "accommodation",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "ACC-07",
+   "category": "accommodation",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "ACC-08",
+   "category": "accommodation",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "ACC-09",
+   "category": "accommodation",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "ACC-10",
+   "category": "accommodation",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "ACC-11",
+   "category": "accommodation",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "HEA-01",
+   "category": "health-emergency",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "HEA-02",
+   "category": "health-emergency",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "HEA-03",
+   "category": "health-emergency",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "HEA-04",
+   "category": "health-emergency",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "HEA-05",
+   "category": "health-emergency",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "HEA-07",
+   "category": "health-emergency",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "HEA-08",
+   "category": "health-emergency",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "HEA-09",
+   "category": "health-emergency",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "HEA-10",
+   "category": "health-emergency",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "HEA-11",
+   "category": "health-emergency",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "HEA-12",
+   "category": "health-emergency",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "HEA-13",
+   "category": "health-emergency",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "HEA-16",
+   "category": "health-emergency",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "MON-01",
+   "category": "money-shopping",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "MON-02",
+   "category": "money-shopping",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "MON-03",
+   "category": "money-shopping",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "MON-04",
+   "category": "money-shopping",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "MON-05",
+   "category": "money-shopping",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "MON-06",
+   "category": "money-shopping",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "MON-07",
+   "category": "money-shopping",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "MON-08",
+   "category": "money-shopping",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": true
+  },
+  {
+   "id": "MON-09",
+   "category": "money-shopping",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TIM-01",
+   "category": "time-numbers",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TIM-02",
+   "category": "time-numbers",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TIM-03",
+   "category": "time-numbers",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TIM-04",
+   "category": "time-numbers",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TIM-05",
+   "category": "time-numbers",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "TIM-06",
+   "category": "time-numbers",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "COM-01",
+   "category": "communication-tech",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "COM-02",
+   "category": "communication-tech",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "COM-03",
+   "category": "communication-tech",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "COM-04",
+   "category": "communication-tech",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "COM-05",
+   "category": "communication-tech",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "ACT-01",
+   "category": "activities",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "ACT-02",
+   "category": "activities",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "ACT-03",
+   "category": "activities",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "ACT-04",
+   "category": "activities",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "ACT-05",
+   "category": "activities",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "ACT-06",
+   "category": "activities",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "ACT-07",
+   "category": "activities",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "ACT-08",
+   "category": "activities",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "ACT-09",
+   "category": "activities",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "ACT-10",
+   "category": "activities",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "ACT-11",
+   "category": "activities",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "ACT-12",
+   "category": "activities",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "REL-01",
+   "category": "religion-customs",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "needs-check",
+   "alreadyCrossed": true
+  },
+  {
+   "id": "REL-02",
+   "category": "religion-customs",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "needs-check",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "REL-03",
+   "category": "religion-customs",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "needs-check",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "REL-04",
+   "category": "religion-customs",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": true
+  },
+  {
+   "id": "REL-05",
+   "category": "religion-customs",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": true
+  },
+  {
+   "id": "REL-06",
+   "category": "religion-customs",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": true
+  },
+  {
+   "id": "REL-07",
+   "category": "religion-customs",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "needs-check",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "REL-08",
+   "category": "religion-customs",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "needs-check",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "REL-09",
+   "category": "religion-customs",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "needs-check",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "REL-10",
+   "category": "religion-customs",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "needs-check",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "REL-11",
+   "category": "religion-customs",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "needs-check",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "REL-12",
+   "category": "religion-customs",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "needs-check",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "REL-13",
+   "category": "religion-customs",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "needs-check",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "PET-01",
+   "category": "pets",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "PET-02",
+   "category": "pets",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "PET-03",
+   "category": "pets",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "PET-04",
+   "category": "pets",
+   "isModifier": false,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "PET-05",
+   "category": "pets",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "PET-06",
+   "category": "pets",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "PET-07",
+   "category": "pets",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "PET-08",
+   "category": "pets",
+   "isModifier": false,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "MOD-01",
+   "category": "modifiers",
+   "isModifier": true,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "MOD-02",
+   "category": "modifiers",
+   "isModifier": true,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "MOD-03",
+   "category": "modifiers",
+   "isModifier": true,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "MOD-04",
+   "category": "modifiers",
+   "isModifier": true,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "MOD-05",
+   "category": "modifiers",
+   "isModifier": true,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "MOD-06",
+   "category": "modifiers",
+   "isModifier": true,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "MOD-07",
+   "category": "modifiers",
+   "isModifier": true,
+   "priority": "P1",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "MOD-08",
+   "category": "modifiers",
+   "isModifier": true,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "MOD-09",
+   "category": "modifiers",
+   "isModifier": true,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "MOD-10",
+   "category": "modifiers",
+   "isModifier": true,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "MOD-11",
+   "category": "modifiers",
+   "isModifier": true,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "MOD-12",
+   "category": "modifiers",
+   "isModifier": true,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "MOD-13",
+   "category": "modifiers",
+   "isModifier": true,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "MOD-14",
+   "category": "modifiers",
+   "isModifier": true,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  },
+  {
+   "id": "MOD-15",
+   "category": "modifiers",
+   "isModifier": true,
+   "priority": "P2",
+   "review": "ok",
+   "alreadyCrossed": false
+  }
+ ]
+}
